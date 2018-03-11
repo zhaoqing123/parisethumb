@@ -1,7 +1,6 @@
 {
-  "name": "zuoye2",
+  "name": "zhaoqing123",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -29,5 +28,17 @@
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "request-promise": "^4.2.2"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zhaoqing123/parisethumb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhaoqing123/parisethumb/issues"
+  },
+  "homepage": "https://github.com/zhaoqing123/parisethumb#readme",
+  "description": ""
 }
